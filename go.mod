@@ -10,7 +10,7 @@ require (
 	github.com/net-byte/water v0.0.7
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	google.golang.org/grpc v1.46.2
-	google.golang.org/protobuf v1.28.0
+	google.golang.org/protobuf v1.33.0
 )
 
 require (
