@@ -1,6 +1,6 @@
 module github.com/net-byte/vtun
 
-go 1.24.0
+go 1.25.0
 
 require (
 	github.com/gobwas/ws v1.3.0
@@ -14,8 +14,8 @@ require (
 	github.com/refraction-networking/utls v1.8.2
 	github.com/stretchr/testify v1.8.3
 	github.com/xtaci/kcp-go v5.4.20+incompatible
-	golang.org/x/crypto v0.46.0
-	golang.org/x/net v0.48.0
+	golang.org/x/crypto v0.52.0
+	golang.org/x/net v0.54.0
 	google.golang.org/grpc v1.79.3
 	google.golang.org/protobuf v1.36.10
 	tailscale.com v1.44.0
@@ -50,11 +50,11 @@ require (
 	github.com/xtaci/lossyconn v0.0.0-20200209145036-adba10fffc37 // indirect
 	go4.org/mem v0.0.0-20220726221520-4f986261bf13 // indirect
 	golang.org/x/exp v0.0.0-20230425010034-47ecfdc1ba53 // indirect
-	golang.org/x/mod v0.30.0 // indirect
-	golang.org/x/sync v0.19.0 // indirect
-	golang.org/x/sys v0.39.0 // indirect
-	golang.org/x/text v0.32.0 // indirect
-	golang.org/x/tools v0.39.0 // indirect
+	golang.org/x/mod v0.35.0 // indirect
+	golang.org/x/sync v0.20.0 // indirect
+	golang.org/x/sys v0.45.0 // indirect
+	golang.org/x/text v0.37.0 // indirect
+	golang.org/x/tools v0.44.0 // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
 	golang.zx2c4.com/wireguard v0.0.0-20220703234212-c31a7b1ab478 // indirect
 	golang.zx2c4.com/wireguard/windows v0.5.3 // indirect
